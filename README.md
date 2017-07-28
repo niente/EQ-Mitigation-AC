@@ -10,4 +10,6 @@ The charts were made in google sheets, using a standard of CotF Teir 1 raid armo
 
 [Buff AC spreadsheet](https://docs.google.com/spreadsheets/d/15LNmvFM26TYbnOFAszblWFNvvbDSbaQpZ-1Z1qyLeAo/edit?usp=sharing)
 
+![Buff AC Image](http://i.imgur.com/N0G9K2U.png)
+
 [EQ Forums post of results summary, & explanation of data](https://forums.daybreakgames.com/eq/index.php?threads/ac-breakdown.211691/)
